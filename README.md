@@ -17,4 +17,4 @@ This repository contains my Computer Vision and Image Processing assignment comp
 - Online Python environment
 
 ## Outputs
-The `outputs` folder contains the images generated during the assignment.
+The repository contains four output images: grayscale conversion, Canny edge detection, Gaussian blur, and image comparison.
